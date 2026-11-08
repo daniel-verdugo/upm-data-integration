@@ -1,0 +1,14 @@
+segment,road,start_km,end_km,from_point,to_point
+T-01,N-122,107.5,120.4,Conexión A-15,Int. SO-P-2001
+T-02,N-122,120.4,133.3,Int. SO-P-2001,Int. SO-P-2015
+T-03,N-122,133.3,140.5,Int. SO-P-2015,Int. SO-P-2005
+T-04,N-122,140.5,148.07,Int. SO-P-2005,Int. SO-20/N-234
+T-05,N-122,158.64,163.5,Enl. SO-20/N-234,Int. SO-P-4049
+T-06,N-122,171.7,184.4,Int. SO-P-4047,Int. SO-110/SO-910
+T-07,N-122,184.4,194.8,Int. SO-110/SO-910,Int. SO-P-5032/SO-P-4046
+T-08,N-122,194.8,203.3,Int. SO-P-5032/SO-P-4046,Enl. A-11 (Santiuste)
+T-09,N-122,203.3,211.6,Enl. A-11 (Santiuste),Enl. A-11
+T-10,N-122,211.6,218.035,Enl. A-11,Enl. A-11
+T-11,N-122,219.3,223.76,Conexión N-122R,Enl. A-11/Int. N-110
+T-12,N-122,228.8,241.13,San Esteban de Gormaz (Oeste),Langa de Duero
+T-13,N-122,163.5,171.7,Int. SO-P-4049,Int. SO-P-4047

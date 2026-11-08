@@ -1,0 +1,15 @@
+station,type,road,pk,segment
+SO-01,permanente,N-122,141.0,T-04
+SO-02,permanente,N-122,221.5,T-11
+SO-21,secundaria,N-122,112.0,T-01
+SO-22,secundaria,N-122,126.5,T-02
+SO-23,secundaria,N-122,137.0,T-03
+SO-24,secundaria,N-122,146.8,T-04
+SO-25,secundaria,N-122,178.0,T-06
+SO-26,secundaria,N-122,189.5,T-07
+SO-27,permanente,N-122,160.9,T-05
+SO-28,secundaria,N-122,168.2,T-05
+SO-29,secundaria,N-122,198.7,T-08
+SO-30,secundaria,N-122,207.0,T-09
+SO-31,secundaria,N-122,215.0,T-10
+SO-32,secundaria,N-122,235.0,T-12
